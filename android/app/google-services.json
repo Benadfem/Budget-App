@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801805263507",
+    "project_id": "budget-app-ee3f2",
+    "storage_bucket": "budget-app-ee3f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801805263507:android:a8b13e96cc9c7ae55aa366",
+        "android_client_info": {
+          "package_name": "benadfem.com.budget_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASpcp_skONdpK-jLpXjc0D6TuxWvZdsmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
